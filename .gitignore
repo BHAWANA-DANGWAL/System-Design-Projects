@@ -1,0 +1,7 @@
+**/__pycache__/
+**/*.py[cod]
+Working-Application/instance/
+Working-Application/.venv/
+Working-Application/venv/
+.env
+.DS_Store
